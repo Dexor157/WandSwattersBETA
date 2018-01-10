@@ -7,7 +7,7 @@ public class Angle {
     public Angle(){
         deg = 0;
         rad = 0;
-        out.out();
+        out.out("help");
     }
     public double getDeg(){
         return deg;
