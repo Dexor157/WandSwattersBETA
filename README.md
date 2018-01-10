@@ -1,2 +1,2 @@
 # WandSwattersBETA
-Literally the best game in history
+Literally the best game in history for now
