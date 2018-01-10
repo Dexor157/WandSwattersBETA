@@ -3,6 +3,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 //author Dawson
+//updated
+
 public class Main extends JFrame{
     private JPanel border = null;
     private JPanel jContentPane = null;
